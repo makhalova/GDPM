@@ -1,6 +1,5 @@
 The GDPM algorithm for computing closed itemsets w.r.t. closure levels. 
 
-Copyright (c) 2020 Tatiana Makhalova
 
 
 
