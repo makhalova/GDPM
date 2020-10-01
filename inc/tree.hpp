@@ -1,7 +1,5 @@
-#include <stdlib.h> /* malloc, free, rand */
+#include <stdlib.h>
 #include <unordered_map>
-
-
 
 #ifndef tree_hpp
 #define tree_hpp
@@ -15,7 +13,7 @@ struct node{
 
 std::pair<int, int>  checkTrie(node* cur_node);
 
-node * insert(VECTOR_TYPE* itemset, node* &root, int m); //node*& root,
+node * insert(VECTOR_TYPE* itemset, node* &root, int m);
 node * getNewNode();
 
 void printTree();

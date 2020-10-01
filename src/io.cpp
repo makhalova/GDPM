@@ -1,9 +1,5 @@
 //
 //  io.cpp
-//  test
-//
-//  Created by Tatiana Makhalova on 01/07/2020.
-//  Copyright © 2020 Tatiana Makhalova. All rights reserved.
 //
 
 #include "io.hpp"
